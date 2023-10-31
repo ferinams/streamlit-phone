@@ -11,7 +11,8 @@ Processor = st.number_input('input Processor')
 RAM_MB = st.number_input('input besarnya RAM')
 Internal_storage_GB = st.number_input('input besarnya memori internal')
 Rear_camera = st.number_input('input pixel kamera belakang')                                  
-Number_of_SIMs = st.number_input('input banyaknya sim card')                             
+Number_of_SIMs = st.number_input('input banyaknya sim card')
+Resolution_x   = st.number_input('inputkan resolusi layar')                        
                               
 predict = ''
 
